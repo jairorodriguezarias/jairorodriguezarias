@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Jairo Rodriguez Arias
 
-**AI Researcher (Director) @ Santander** · ex-Google · Professor @ ISDI · Madrid, Spain
+**AI Researcher (Director) @ Santander** · Professor @ ISDI · Madrid, Spain
 
 Passionate about everything related to **Data, ML/AI, and Information Systems**. On GitHub I explore **fully-local autonomous agents** — no cloud APIs, no external GPUs.
 
 ## 🔬 Featured projects
+
+*All three are ongoing projects — under active development.*
 
 - 🛌 **[Siesta](https://github.com/jairorodriguezarias/siesta)** — give your machine an idea, go take a nap, and come back to working code with git history, tests, and a self-improving knowledge base.
 - 🤖 **[agentic-harness-ollama](https://github.com/jairorodriguezarias/agentic-harness-ollama)** — a 13-milestone architecture to design, evaluate, and govern autonomous agents with Ollama, wired into CI/CD pipelines.
